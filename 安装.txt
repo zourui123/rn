@@ -1,0 +1,9 @@
+1. 安装jdk
+
+2. 安装sdk
+http://tools.android-studio.org/index.php/sdk 官网
+http://blog.csdn.net/siwuxie095/article/details/53431818  参考资料
+studio 官网下载
+如果没有sdk 也单独下载
+
+
