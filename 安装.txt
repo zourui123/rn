@@ -1,5 +1,6 @@
 问题1 需要python环境？
-问题2 未能加载 Visual C++ 组件“VCBuild.exe” ？ npm config set msvs_version 2015 --global 
+问题2 未能加载 Visual C++ 组件“VCBuild.exe” ？ 
+Miscrosoft Visual c++ 2015 
 
 既不是内部也不是外部命令， 就是node的路径不对。
 
